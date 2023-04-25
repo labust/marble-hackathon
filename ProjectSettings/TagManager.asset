@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Vehicle
+  - LB Combined Mesh
+  - LB Combined Group Mesh
+  - LB Rain Particles
+  - LB Hail Particles
+  - LB Snow Particles
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -31,7 +37,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - LB Celestials
   - 
   - 
   - 
