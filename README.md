@@ -24,4 +24,3 @@ ros2 launch grpc_ros_adapter ros2_server_launch.py
 
   data: [50]" 
 
-(Important notice: use tab key to complete the command above) 
