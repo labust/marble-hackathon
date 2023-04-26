@@ -1,3 +1,5 @@
 [submodule "marus-core"]
 	path = Assets/marus-core
 	url = git@github.com:MARUSimulator/marus-core
+[submodule "Assets/marus-core"]
+	branch = marble-hackathon
