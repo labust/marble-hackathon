@@ -2,7 +2,7 @@
 
 Unity scene for project MARBLE.
 
-Clone the repo with submodules: git submodule update --init --recursive 
+Clone the repo with submodules: git clone git@github.com:MARUSimulator/marble-hackathon.git --recursive 
 
 #General usage 
 
