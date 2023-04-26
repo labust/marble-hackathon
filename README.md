@@ -4,7 +4,7 @@ Unity scene for project MARBLE.
 
 Clone the repo with submodules: git clone https://github.com/MARUSimulator/marble-hackathon.git --recursive 
 
-#General usage 
+# General usage 
 
 1) Launch the server: 
 
