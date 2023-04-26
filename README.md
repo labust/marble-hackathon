@@ -2,15 +2,15 @@
 
 Unity scene for project MARBLE.
 
-After cloning the repo: git submodule update --init --recursive 
+Clone the repo with submodules: git clone https://github.com/MARUSimulator/marble-hackathon.git --recursive 
 
-#General usage 
+# General usage 
 
 1) Launch the server: 
 
 ros2 launch grpc_ros_adapter ros2_server_launch.py 
 
-2) Start the simulation in Unity (click on play button) 
+2) Open the scene "hackathon" inside Assets/Scenes and start the simulation in Unity (click on play button) 
 
 3) Image is published on topic /floater/microscope, which can be shown with rviz2 
 
