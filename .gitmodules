@@ -3,3 +3,5 @@
 	url = git@github.com:MARUSimulator/marus-core
 [submodule "Assets/marus-core"]
 	branch = marble-hackathon
+[submodule "https://github.com/MARUSimulator/marus-core.git"]
+	branch = marble-hackathon
