@@ -29,15 +29,13 @@ This is an implementation of realistic scene in Unity and vertical profiling flo
 
 
 #### Examples
-* Inspect published image with: `rviz2`
+* Inspect published image with `rviz2`
 
-* To publish the buoyancy force use the following command:
+* To publish the buoyancy force use `ros2 topic pub` command
+  * Publishing `0`, will make floater to sink, while with higher values it will float
 ```
  ros2 topic pub /floater/volume_disp std_msgs/msg/Float32MultiArray "layout: 
  dim: []
  data_offset: 0 
  data: [50]"
   ```
-   * Publishing `0`, will make floater to sink, while with higher values it will float
-
-
