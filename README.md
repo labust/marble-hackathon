@@ -24,8 +24,8 @@ This is an implementation of realistic scene in Unity and vertical profiling flo
 
 ### Topics
 
-* * * /floater/microscope * * - topic for raw image data
-* * */floater/volume_disp * * - topic for controlling the buoyancy force
+* */floater/microscope* - topic for raw image data
+* */floater/volume_disp* - topic for controlling the buoyancy force
 
 
 #### Examples
