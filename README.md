@@ -30,7 +30,10 @@ This is an implementation of realistic scene in Unity and vertical profiling flo
 
 ### Examples
 * To successfully publish the buoyancy force use the following command:
- `ros2 topic pub /floater/volume_disp std_msgs/msg/Float32MultiArray "layout: 
+
+ .. code:: bash
+ 
+ ros2 topic pub /floater/volume_disp std_msgs/msg/Float32MultiArray "layout: 
 
   dim: [] 
 
