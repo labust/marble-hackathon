@@ -39,5 +39,5 @@ This is an implementation of realistic scene in Unity and vertical profiling flo
   
   `data: [50]"`
 
-  ** Publishing "0", will make floater to sink, while with higher values will make it float
+  ** Publishing `0`, will make floater to sink, while with higher values it will float
 
