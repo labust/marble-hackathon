@@ -38,6 +38,6 @@ This is an implementation of realistic scene in Unity and vertical profiling flo
  data_offset: 0 
  data: [50]"
   ```
-  * Publishing `0`, will make floater to sink, while with higher values it will float
+   * Publishing `0`, will make floater to sink, while with higher values it will float
 
 
