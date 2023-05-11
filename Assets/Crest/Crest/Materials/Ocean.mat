@@ -11,6 +11,7 @@ Material:
   m_Shader: {fileID: -6465566751694194690, guid: ab10809e750b1f8488cffe996ed575a3, type: 3}
   m_ValidKeywords:
   - CREST_CAUSTICS_ON
+  - CREST_FLOW_ON
   - CREST_FOAM_ON
   - CREST_WATER_VOLUME_NONE
   - _ALPHATEST_ON
@@ -66,7 +67,7 @@ Material:
     m_Floats:
     - CREST_ALBEDO: 0
     - CREST_CAUSTICS: 1
-    - CREST_FLOW: 0
+    - CREST_FLOW: 1
     - CREST_FOAM: 1
     - CREST_GENERATED_SHADER: 1
     - Vector1_89268251: 10
